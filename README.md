@@ -29,7 +29,7 @@ Since then we decided to keep at an example or *kata* to try with different prog
 15. The person who travels by train has a neighbor that drinks decaf.
 
 #### Question:
-Who ons the fish? (HINT:  Not Nigel)
+Who ownsss the fish? (HINT:  Not Nigel)
 
 ### Solutions
 1.  R
