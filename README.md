@@ -4,11 +4,13 @@ luke-einstein-puzzle
 ### Context
 This is main repository to group different implementations of the [Einstein puzzle](https://web.stanford.edu/~laurik/fsmbook/examples/Einstein%27sPuzzle.html).
 
-NLA presented this to me as a bonus problem during one of his K-12 courses as a bonus problem.  At first, he was trying to solve it manually by handwriting notes like one would solve a Suduko puzzle.  I suggested we try writing a program together to solve it more formally.
+NLA presented this to me as a problem during one of his K-12 courses as a bonus problem.  At first, he was trying to solve it manually by handwriting notes like one would solve a Suduko puzzle.  I suggested we try writing a program together to solve it more formally.
 
-At that point in time, I was actively taking Coursera John Hopkins Data Science specialization track and wanted to experiment how fast we could implement using a language I was less familiar with which as time was R.
+At that point in time, I was actively taking Coursera John Hopkins Data Science specialization track and wanted to experiment with how fast we could implement using a language I was less familiar.  This specialization focused on implementation with with R.
 
-Since then we decided to keep at an example or *kata* to try with different programming languages.
+Since then I decided to keep at an example or *kata* to try with different concepts, implementation stacks and programming languages.
+
+Also, it has interesting ties to AI and machine learning as this is a classical method to solve a problem with human curated knowledge in the form of programming rules.
 
 ### The Problem
 ####  Facts:
@@ -34,3 +36,6 @@ Who ownsss the fish? (HINT:  Not Nigel)
 ### Solutions
 1.  R
 * [code](https://github.com/nalbarr/luke-einstein-puzzle-R.git)
+
+### Related
+I am experimenting with **porting** this example to a simplified Healthcare use case for more learning and using for teaching and mentoring examples
